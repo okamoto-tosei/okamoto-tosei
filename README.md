@@ -8,7 +8,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>query取得</strong></td>
+        <td><strong>query</strong></td>
         <td>graphql</td>
         <td></td>
     </tr>
